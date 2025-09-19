@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Spam Detector</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="card">
+      <h1>Spam Detector</h1>
+      <p class="muted">Paste a message below. The model will predict whether it's spam.</p>
+      {% if load_error %}
+      <div class="error">Model not loaded: {{ load_error }}</div>
+      {% endif %}
+      <form action="/predict" method="post">
+        <textarea name="message" placeholder="Type or paste text here..." required>{{ message if message is defined else '' }}</textarea>
+        <div class="controls">
+          <button type="submit">Check</button>
+        </div>
+      </form>
+      {% if label is defined %}
+      <div class="result">
+        <strong>Prediction:</strong> <span class="badge">{{ label }}</span>
+        {% if prob %}
+        <div class="prob">Confidence: {{ (prob*100)|round(2) }}%</div>
+        {% endif %}
+      </div>
+      {% endif %}
+      <footer class="foot">Built for testing — replace the pickles with your trained files for production.</footer>
+    </main>
+  </body>
+</html>

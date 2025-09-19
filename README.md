@@ -29,20 +29,20 @@ EDA was performed to understand the dataset distribution, class balance, and lan
 
 1. **Target Distribution (Pie Plot)**  
    The dataset is **imbalanced**, with some categories (e.g., *Religion Cyberbullying*) having more samples compared to others (e.g., *Age Cyberbullying*).  
-   ![Target Distribution](assets\pie_chart.png)
+   ![Target Distribution](assets/pie_chart.png)
 
 2. **Heatmap of Feature Correlations**  
    Identified relationships between engineered features such as sentence length, word count, and character distribution.  
-   ![Heatmap](assets\heatmap.png)
+   ![Heatmap](assets/heatmap.png)
 
 3. **Pairplot**  
    Demonstrates how numerical features vary across classes.  
-   ![Pairplot](assets\pairplot.png)
+   ![Pairplot](assets/pairplot.png)
 
 4. **Histograms & Bar Plots**  
    Showed sentence length distribution, common words across bullying categories, and frequency of words.  
-   ![Histogram](assets\histplot.png)  
-   ![Bar Plot](assets\barplot.png)  
+   ![Histogram](assets/histplot.png)  
+   ![Bar Plot](assets/barplot.png)  
 
 These analyses revealed why **class imbalance handling** (e.g., `class_weight="balanced"`) was essential for fair predictions.
 

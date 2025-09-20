@@ -157,9 +157,8 @@ Input Texts → Model Predictions:
 ---
 
 ## 👨‍💻 Author
-
-- **Your Name**  
-  - GitHub: [github.com/yourusername](https://github.com/DarainHyder)  
-  - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/syed-darain-hyder-kazmi)
+  
+  - GitHub: [github.com/DarainHyder](https://github.com/DarainHyder)
+  - LinkedIn: [linkedin.com/in/syed-darain-hyder-kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
 
 ---

@@ -9,7 +9,7 @@ and a **Streamlit web app** for interactive use.
 ---
 
 # Detailed Report: 
-https://drive.google.com/file/d/1-g8ZK-GbZwd5Z3LefBzAD-_JJtKj2_3q/view?usp=sharing
+[Project Report](https://drive.google.com/file/d/1-g8ZK-GbZwd5Z3LefBzAD-_JJtKj2_3q/view?usp=sharing)
 
 ## 📊 Dataset & Target Classes
 
@@ -165,5 +165,8 @@ Input Texts → Model Predictions:
   
   - GitHub: [github.com/DarainHyder](https://github.com/DarainHyder)
   - LinkedIn: [linkedin.com/in/syed-darain-hyder-kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
+  - Github: [github.com/AhsanAtiq](https://github.com/ahsanatiq05)
+  - Linkedin: [linkedin.com/in/muhammad-ahsan-atiq](https://www.linkedin.com/in/muhammad-ahsan-atiq-399653378/)
+
 
 ---

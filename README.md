@@ -8,6 +8,8 @@ and a **Streamlit web app** for interactive use.
 
 ---
 
+# Detailed Report: ![Project Report] (https://drive.google.com/file/d/1-g8ZK-GbZwd5Z3LefBzAD-_JJtKj2_3q/view?usp=sharing)
+
 ## 📊 Dataset & Target Classes
 
 The dataset consists of labeled text samples, with each sample categorized into one of the following classes:
@@ -136,6 +138,8 @@ Response:
 
 ---
 
+
+
 ## 🎯 Example Predictions
 
 Input Texts → Model Predictions:
@@ -147,7 +151,7 @@ Input Texts → Model Predictions:
 
 ---
 
-## 📌 Future Work
+## 📌 Future Work for Later
 
 - 🔹 Fine-tune **DistilBERT** / **BERT** for improved accuracy (>90%)  
 - 🔹 Add **explainability** with LIME/SHAP to understand predictions  

@@ -11,6 +11,9 @@ and a **Streamlit web app** for interactive use.
 # Detailed Report: 
 [Project Report](https://drive.google.com/file/d/1-g8ZK-GbZwd5Z3LefBzAD-_JJtKj2_3q/view?usp=sharing)
 
+# Article:
+[Project Article](https://medium.com/@uneebashaikh/my-buildables-peer-project-journey-building-an-ai-cyberbullying-detection-system-1b1fabcb2417)
+
 ## 📊 Dataset & Target Classes
 
 The dataset consists of labeled text samples, with each sample categorized into one of the following classes:

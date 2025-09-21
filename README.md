@@ -167,6 +167,8 @@ Input Texts → Model Predictions:
   - LinkedIn: [linkedin.com/in/syed-darain-hyder-kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
   - Github: [github.com/AhsanAtiq](https://github.com/ahsanatiq05)
   - Linkedin: [linkedin.com/in/muhammad-ahsan-atiq](https://www.linkedin.com/in/muhammad-ahsan-atiq-399653378/)
+  - Github:[https://github.com/UNEEBASHAIKH]
+  - Linkedin:[https://www.linkedin.com/in/uneeba-shaikh-257625265/]
 
 
 ---

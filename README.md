@@ -9,7 +9,7 @@ and a **Streamlit web app** for interactive use.
 ---
 
 # Detailed Report: 
-![Project Report] (https://drive.google.com/file/d/1-g8ZK-GbZwd5Z3LefBzAD-_JJtKj2_3q/view?usp=sharing)
+![Project Report](https://drive.google.com/file/d/1-g8ZK-GbZwd5Z3LefBzAD-_JJtKj2_3q/view?usp=sharing)
 
 ## 📊 Dataset & Target Classes
 

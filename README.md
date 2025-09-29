@@ -85,19 +85,30 @@ Confusion Matrix shows misclassifications across categories, highlighting which 
 ## 📂 Project Structure
 
 ```
-CyberBullying/
-│── API_HANDLING/
-│   ├── api.py                # FastAPI app for model inference
-│   ├── test_model.py         # Test model loading
-│   ├── test_post_request.py  # Test POST request to API
+CyberBullying-DetectionSystem/
+│── API_bundle/
+│   ├── app.py                
+│   ├── models.pkl
+|   ├── vectorizer.pkl         
+│   ├── streamlit_app.py   
+|   |── static/
+|   |   └── styles.css 
 │   ├── templates/
-│   │   └── index.html        # Web UI for FastAPI
+│   │   └── index.html      
 │
-│── model.pkl                 # Trained ML model
-│── vectorizer.pkl            # TF-IDF vectorizer
-│── streamlit_app.py          # Streamlit web app
-│── images/                   # Graphs & EDA plots
-│── README.md                 # Project documentation
+│── assets/
+|   |── barplot.png
+|   |── heatmap.png
+|   |── histplot.png
+|   |── pairplot.png
+|   |── pie_chart.png            
+│── data/
+|   |── cyberbullying_tweets.csv          
+│── notebook/
+|   |── spam_Detection.ipynb          
+│── .gitignore
+|── .gitattribute                  
+│── README.md                
 ```
 
 ---

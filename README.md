@@ -113,6 +113,14 @@ CyberBullying-DetectionSystem/
 
 ---
 
+## Project Demo
+
+<img width="1320" height="758" alt="image" src="https://github.com/user-attachments/assets/fb5e8b3a-9694-475c-aa32-5bfd4507a254" />
+<img width="1332" height="763" alt="image" src="https://github.com/user-attachments/assets/a377aae1-33c7-4dab-b96c-f3888ac28529" />
+
+
+
+
 ## 🚀 Deployment Options
 
 ### 🔹 Streamlit App (Interactive Web UI)

@@ -1,4 +1,4 @@
-# Cyber_Bullying
+# Cyber Bullying Detector
 
 # 🚨 Cyberbullying Detection (Multiclass NLP Project)
 
@@ -7,9 +7,6 @@ The system covers everything from **data preprocessing and exploratory data anal
 and a **Streamlit web app** for interactive use.
 
 ---
-
-# Detailed Report: 
-[Project Report](https://drive.google.com/file/d/1-g8ZK-GbZwd5Z3LefBzAD-_JJtKj2_3q/view?usp=sharing)
 
 # Article:
 [Project Article](https://medium.com/@uneebashaikh/my-buildables-peer-project-journey-building-an-ai-cyberbullying-detection-system-1b1fabcb2417)
@@ -166,12 +163,12 @@ Input Texts → Model Predictions:
 
 ## 👨‍💻 Author
   
-  - GitHub: [github.com/DarainHyder](https://github.com/DarainHyder)
-  - LinkedIn: [linkedin.com/in/syed-darain-hyder-kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
-  - Github: [github.com/AhsanAtiq](https://github.com/ahsanatiq05)
-  - Linkedin: [linkedin.com/in/muhammad-ahsan-atiq](https://www.linkedin.com/in/muhammad-ahsan-atiq-399653378/)
-  - Github:[https://github.com/UNEEBASHAIKH]
-  - Linkedin:[https://www.linkedin.com/in/uneeba-shaikh-257625265/]
+  - GitHub: [Darain Hyder](https://github.com/DarainHyder)
+  - LinkedIn: [Darain Hyder](https://linkedin.com/in/syed-darain-hyder-kazmi)
+  - Github: [Ahsan Atiq](https://github.com/ahsanatiq05)
+  - Linkedin: [Muhammad Ahsan Atiq](https://www.linkedin.com/in/muhammad-ahsan-atiq-399653378/)
+  - Github:[UNEEBA SHAIKH](https://github.com/UNEEBASHAIKH)
+  - Linkedin:[Uneeba Shaikh](https://www.linkedin.com/in/uneeba-shaikh-257625265/)
 
 
 ---

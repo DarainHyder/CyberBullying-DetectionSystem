@@ -163,12 +163,16 @@ Input Texts → Model Predictions:
 
 ## 👨‍💻 Author
   
-  - GitHub: [Darain Hyder](https://github.com/DarainHyder)
-  - LinkedIn: [Darain Hyder](https://linkedin.com/in/syed-darain-hyder-kazmi)
-  - Github: [Ahsan Atiq](https://github.com/ahsanatiq05)
-  - Linkedin: [Muhammad Ahsan Atiq](https://www.linkedin.com/in/muhammad-ahsan-atiq-399653378/)
-  - Github:[UNEEBA SHAIKH](https://github.com/UNEEBASHAIKH)
-  - Linkedin:[Uneeba Shaikh](https://www.linkedin.com/in/uneeba-shaikh-257625265/)
+  - Syed Darain Hyder Kazmi
+  - GitHub: [My GitHub](https://github.com/DarainHyder)
+  - LinkedIn: [My Linkedin](https://linkedin.com/in/syed-darain-hyder-kazmi)
+  - Uneeba Shaikh
+  - Github:[My GitHub](https://github.com/UNEEBASHAIKH)
+  - Linkedin:[My Linkedin](https://www.linkedin.com/in/uneeba-shaikh-257625265/)
+  - Ahsan Atiq
+  - Github: [My GitHub](https://github.com/ahsanatiq05)
+  - Linkedin: [My Linkedin](https://www.linkedin.com/in/muhammad-ahsan-atiq-399653378/)
+
 
 
 ---
